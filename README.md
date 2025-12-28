@@ -18,23 +18,30 @@ I love mentoring devs, optimizing systems, and finding clever ways to make infra
 ## 🛠 My Playground
 Here’s what I usually play with:  
 
-**Backend:** `Python`, `Flask`, `Django`, `FastAPI`, `Java`, `Node.js`  
-**Cloud & Infra:** `AWS (Lambda, ECS, S3)`, `Kubernetes`, `Docker`, `Pulumi`  
-**Data & Pipelines:** `Airflow`, `Kinesis`, `dbt`, `Glue`  
-**Databases:** `PostgreSQL`, `Redis`, `DynamoDB`  
-**CI/CD & Observability:** `GitHub Actions`, `GitLab CI/CD`, `New Relic`, `Sentry`  
+**Backend:** `Python`| `Flask` | `Django` | `FastAPI` | `Java` | `Node.js`  
+**Cloud & Infra:** `AWS`| `Kubernetes`| `Docker`| `Pulumi`  
+**Data & Pipelines:** `Airflow` | `Kinesis` | `dbt` | `Glue`  
+**Databases:** `PostgreSQL`| `Redis` | `DynamoDB` | `OpenSearch`  
+**CI/CD & Observability:** `GitHub Actions`| `GitLab CI/CD` | `New Relic` | `Sentry`  
 
 ---
 
-## 🎮 GitHub Fun Stats
-![Óscar's GitHub stats](https://github-readme-stats.vercel.app/api?username=oscarperezt1991&show_icons=true&theme=radical)  
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=oscarperezt1991&layout=compact&theme=radical)
+## 📊 GitHub Stats
+
+<table>
+<tr>
+<td><img src="https://github-readme-stats-fast.vercel.app/api?username=oscarperezt1991&show_icons=true&theme=radical" /></td>
+<td><img src="https://github-readme-stats-fast.vercel.app/api/streak?username=oscarperezt1991&theme=radical" /></td>
+<td><img src="https://ghchart.rshah.org/oscarperezt1991" /></td>
+</tr>
+<tr>
+<td align="center">GitHub Stats</td>
+<td align="center">Commit Streak</td>
+<td align="center">Contribution Graph</td>
+</tr>
+</table>
 
 ---
 
-## 🌐 Languages I Speak
-🇪🇸 Spanish&Catalan | 🇬🇧 English  
+✨ When I’m not coding, I’m exploring new tech, reading about distributed systems, or hunting for the perfect espresso ☕  
 
----
-
-✨ When I’m not coding, I’m usually exploring new tech, reading about distributed systems, or hunting for the perfect espresso ☕  
